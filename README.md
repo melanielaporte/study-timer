@@ -1,4 +1,4 @@
-# Study Buddy Timer
+# Study Pal Timer
 
 Welcome to Study Buddy Timer – your friendly study companion I created to help me focus! 
 
@@ -15,6 +15,7 @@ Welcome to Study Buddy Timer – your friendly study companion I created to help
 ## How it Works
 
 Study Buddy Timer uses JavaScript to countdown. Get a friendly alert when it's break time.
+I'm learning Javascript so the Study Pal will improve in time. 
 
 ## Crititque
 
