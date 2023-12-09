@@ -1,6 +1,6 @@
 # Study Buddy Timer
 
-Welcome to Study Buddy Timer – your friendly study companion! 📚✨
+Welcome to Study Buddy Timer – your friendly study companion I created to help me focus! 
 
 ## How to Use
 
